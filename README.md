@@ -1,6 +1,8 @@
 # Project-1: Food Insecurity in Georgia 
 This project focuses on the prevalance of food insecurity (F.I) in Georgia in 2018. We compiled data that explores both the determinants of food insecurity and its effects on adults and children. We also looked at the correlation between food insecurity and obesity. 
 
+*Important Note: You have to install Geopandas in order for the code to run properly. 
+
 ## Table of Contents 
 1. Motivation for Project Choice 
 2. Questions 
